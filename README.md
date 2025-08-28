@@ -21,10 +21,9 @@ flowchart TD
 
 <p>If my pc is running then the link should work :)</p>
 
+![video](vids/demo.mp4)
+
 <p> 
-    <video width="400" autoplay>
-        <source src="vids/demo.mp4" type="video/mp4">
-    </video>
     <br> 
     <em>A short videos showing the Android app, MQTT messages flowing, and the live dashboard updating in real-time.</em> 
 </p>
