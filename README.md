@@ -21,7 +21,7 @@ flowchart TD
 
 <p>If my pc is running then the link should work :)</p>
 
-![video](vids/demo.mp4)
+![video](https://github.com/Xlesiai/Android-Ignition/blob/main/vids/demo.mp4)
 
 <p> 
     <br> 
