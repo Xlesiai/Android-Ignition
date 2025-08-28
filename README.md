@@ -21,7 +21,7 @@ flowchart TD
 
 <p>If my pc is running then the link should work :)</p>
 
-![video](demo.gif)
+![video](vids/demo.gif)
 
 <p> 
     <br> 
