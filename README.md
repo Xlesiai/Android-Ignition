@@ -17,9 +17,6 @@ flowchart TD
 
 <h2>Demo</h2>
 
-<a>http://localhost:8088/data/perspective/client/Ignition_Android</a>
-
-<p>If my pc is running then the link should work :)</p>
 
 ![video](vids/demo.gif)
 
